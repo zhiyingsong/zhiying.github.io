@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>宋致应</title>
   
-  <subtitle>淡泊明志，宁静致远</subtitle>
+  <subtitle>FSAE | 灵飞练习生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-27T12:43:11.911Z</updated>
+  <updated>2020-07-28T05:24:55.397Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/27/hello-world/"/>
-    <id>http://yoursite.com/2020/07/27/hello-world/</id>
-    <published>2020-07-27T12:43:11.911Z</published>
-    <updated>2020-07-27T12:43:11.911Z</updated>
+    <title>iBolt体重传感器</title>
+    <link href="http://yoursite.com/2020/07/28/hallo/"/>
+    <id>http://yoursite.com/2020/07/28/hallo/</id>
+    <published>2020-07-28T05:01:32.000Z</published>
+    <updated>2020-07-28T05:24:55.397Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;2.1 基本原理及特点&lt;br&gt;iBolt传感器用来测量前排乘客的体重。通过测量体重可以区分前排乘客是成人还是儿童，当乘客为小孩时，安全气囊将停止工作以保护儿童安全。&lt;/p&gt;
+&lt;p&gt;图5 iBolt力传感器的测量原理图&lt;br&gt;如图5所示，乘客体重产生的力从座椅的上部结构通过套
       
     
     </summary>
